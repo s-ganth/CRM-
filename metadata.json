@@ -1,0 +1,5 @@
+{
+  "name": "Gemini CRM",
+  "description": "A modern, AI-powered CRM application designed for freelancers and small teams to manage contacts, leads, deals, and tasks efficiently. It features an intuitive dashboard, Kanban boards, reporting, and smart AI assistance for email drafting and lead scoring.",
+  "requestFramePermissions": []
+}
