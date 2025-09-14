@@ -126,7 +126,7 @@ const DashboardPage: React.FC = () => {
                     </ul>
                 </Card>
                 <Card>
-                    <h3 className="font-semibold text-text mb-4">Upcoming Tasks</h3>
+                    <h3 className="font-semibold text-text mb-4">Upcoming</h3>
                     <ul className="space-y-3">
                         {upcomingTasks.map(task => (
                             <li key={task.id} className="flex items-center justify-between text-sm p-3 bg-background rounded-lg">
