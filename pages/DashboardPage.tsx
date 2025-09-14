@@ -90,7 +90,7 @@ const DashboardPage: React.FC = () => {
 
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
                 <Card className="lg:col-span-2">
-                    <h3 className="font-semibold text-text mb-4">Revenue Overview</h3>
+                    <h3 className="font-semibold text-text mb-4">Reve</h3>
                     <ResponsiveContainer width="100%" height={300}>
                         <LineChart data={revenueData}>
                             <CartesianGrid strokeDasharray="3 3" strokeOpacity={0.2} />
