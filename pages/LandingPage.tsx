@@ -24,7 +24,7 @@ const LandingPage: React.FC = () => {
                             <div className="flex flex-col justify-center space-y-4 text-center lg:text-left">
                                 <div className="space-y-2">
                                     <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none text-text">
-                                        Simplify Your Client Management
+                                        Simplify Your Client Managemen
                                     </h1>
                                     <p className="max-w-[600px] text-text-secondary md:text-xl mx-auto lg:mx-0">
                                         Our AI-powered CRM helps freelancers and small teams manage leads, deals, and tasks effortlessly.
